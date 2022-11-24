@@ -1,0 +1,3583 @@
+[
+  {
+    "id": "YvWQMlMjtYmVmheH97tTlQ",
+    "alias": "crab-house-all-you-can-eat-seafood-new-york",
+    "name": "Crab House All You Can Eat Seafood",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1J0qtJbyF3aYyTobEOzjgg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/crab-house-all-you-can-eat-seafood-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 584,
+    "categories": [
+      {
+        "alias": "buffets",
+        "title": "Buffets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.759664,
+      "longitude": -73.969776
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$$",
+    "location": {
+      "address1": "135 E 55th St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10022",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "135 E 55th St",
+        "New York, NY 10022"
+      ]
+    },
+    "phone": "+12129330264",
+    "display_phone": "(212) 933-0264",
+    "distance": 6381.672939795404
+  },
+  {
+    "id": "hdiuRS9sVZSMReZm4oV5SA",
+    "alias": "da-andrea-new-york",
+    "name": "Da Andrea",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZbJxx7Rl8fUH7Pg4GU2p3g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/da-andrea-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1648,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.736218,
+      "longitude": -73.99597
+    },
+    "transactions": [
+      "delivery",
+      "pickup",
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "35 W 13th St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "35 W 13th St",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12123671979",
+    "display_phone": "(212) 367-1979",
+    "distance": 3424.7293369303584
+  },
+  {
+    "id": "ehUuSk5gPTCQmwS_ubgKRA",
+    "alias": "upstate-craft-beer-and-oyster-bar-new-york-4",
+    "name": "Upstate Craft Beer & Oyster Bar",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fbfAcyDvcxXfXYlR7AWBZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/upstate-craft-beer-and-oyster-bar-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 2025,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.726373,
+      "longitude": -73.986557
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "95 1st Ave",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "95 1st Ave",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+16467915400",
+    "display_phone": "(646) 791-5400",
+    "distance": 2416.715359115974
+  },
+  {
+    "id": "6jPju63RQy3P3ov9-ejP7g",
+    "alias": "sea-wolf-williamsburg-waterfront-brooklyn",
+    "name": "Sea Wolf - Williamsburg Waterfront",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZEzGcEUj4cRBdHR6qVZtIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sea-wolf-williamsburg-waterfront-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 263,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.709946,
+      "longitude": -73.968608
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "420 Kent Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "420 Kent Ave",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+17182332792",
+    "display_phone": "(718) 233-2792",
+    "distance": 2222.127845327241
+  },
+  {
+    "id": "G9b640a2fZs7s6Q-cWPkiQ",
+    "alias": "tin-building-by-jean-georges-new-york",
+    "name": "Tin Building by Jean-Georges",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gaOYSwluo1KjpZxiIEhzTw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tin-building-by-jean-georges-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 54,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      },
+      {
+        "alias": "food_court",
+        "title": "Food Court"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.706200062546294,
+      "longitude": -74.00226642004867
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "96 South St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "96 South St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 677.3131450588168
+  },
+  {
+    "id": "zfiXI8AwYBRfWjPyv6oh3w",
+    "alias": "lobster-place-new-york-4",
+    "name": "Lobster Place",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zgCitW9dNXpxlehrZuGBTg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lobster-place-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1453,
+    "categories": [
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7427413905213,
+      "longitude": -74.0060118057704
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "75 9th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "75 9th Ave",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12122555672",
+    "display_phone": "(212) 255-5672",
+    "distance": 4263.133873590816
+  },
+  {
+    "id": "clXeABm-jiPEUypcDIzDIw",
+    "alias": "mermaid-oyster-bar-new-york-4",
+    "name": "Mermaid Oyster Bar",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rj0nvZ-tZejM3VUq1971Qg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mermaid-oyster-bar-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 79,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.72922,
+      "longitude": -74.00126
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "89 MacDougal St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "89 MacDougal St",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12122600100",
+    "display_phone": "(212) 260-0100",
+    "distance": 2691.150674538277
+  },
+  {
+    "id": "LpVbI-E9C-CSp7WhU5h2Iw",
+    "alias": "fishmarket-restaurant-new-york",
+    "name": "Fishmarket Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-rU1vuRmHkzA6nhmoVRHnQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fishmarket-restaurant-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 617,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "divebars",
+        "title": "Dive Bars"
+      },
+      {
+        "alias": "malaysian",
+        "title": "Malaysian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.70717,
+      "longitude": -74.00192
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "111 South St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "111 South St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+19173638101",
+    "display_phone": "(917) 363-8101",
+    "distance": 667.9406968270184
+  },
+  {
+    "id": "iS26QjjC-4GtP0YpoXwI8w",
+    "alias": "zaab-zaab-brooklyn",
+    "name": "Zaab Zaab",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3U1Sa-Pot3Ihd9GfHn6WQA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/zaab-zaab-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 40.71387597679311,
+      "longitude": -73.960393
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "208 Grand St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11211",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "208 Grand St",
+        "Brooklyn, NY 11211"
+      ]
+    },
+    "phone": "+17185763743",
+    "display_phone": "(718) 576-3743",
+    "distance": 3007.257448988524
+  },
+  {
+    "id": "EDucGBSfQ0YIbxdHS-KnCg",
+    "alias": "sagaponack-new-york-6",
+    "name": "Sagaponack",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g7wkLnlAJaa0ELDgltoytQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sagaponack-new-york-6?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 202,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "gourmet",
+        "title": "Specialty Food"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.740937,
+      "longitude": -73.99081
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "4 W 22nd St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10010",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "4 W 22nd St",
+        "New York, NY 10010"
+      ]
+    },
+    "phone": "+12122292226",
+    "display_phone": "(212) 229-2226",
+    "distance": 3957.5096807378354
+  },
+  {
+    "id": "sEuLm5fQgWkkiYBt6OphWQ",
+    "alias": "greenpoint-fish-and-lobster-brooklyn",
+    "name": "Greenpoint Fish & Lobster",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gEsyoyyfBAiJu8FkwLHhbw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/greenpoint-fish-and-lobster-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 378,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.724128,
+      "longitude": -73.9491199
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "114 Nassau Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11222",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "114 Nassau Ave",
+        "Brooklyn, NY 11222"
+      ]
+    },
+    "phone": "+17183131913",
+    "display_phone": "(718) 313-1913",
+    "distance": 4337.204417405035
+  },
+  {
+    "id": "1x2hn3e9sCCZca1cnRTpEg",
+    "alias": "claw-daddys-brooklyn",
+    "name": "Claw Daddy's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ABHo2xn4dcpVspJkaQ_g-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/claw-daddys-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 609,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.68561,
+      "longitude": -73.98035
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "31 3rd Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11217",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "31 3rd Ave",
+        "Brooklyn, NY 11217"
+      ]
+    },
+    "phone": "+13473188893",
+    "display_phone": "(347) 318-8893",
+    "distance": 2500.3200581143838
+  },
+  {
+    "id": "MYh3iKpuo1HQUoHUyzA0BQ",
+    "alias": "bar-crudo-brooklyn-2",
+    "name": "Bar Crudo",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cgPPQ_01TaMNKdPxTJaItQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bar-crudo-brooklyn-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 226,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.670226,
+      "longitude": -73.985768
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "412 Fifth Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11215",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "412 Fifth Ave",
+        "Brooklyn, NY 11215"
+      ]
+    },
+    "phone": "+17187011894",
+    "display_phone": "(718) 701-1894",
+    "distance": 3981.5773244219467
+  },
+  {
+    "id": "Roj5hZ0Tq22ruarnGnLiVQ",
+    "alias": "seaport-house-new-york",
+    "name": "Seaport House",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_Ntac1YIGIT6EgtNjH_dkA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/seaport-house-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 67,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.707503,
+      "longitude": -74.001945
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "229 Front St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "229 Front St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+12124335800",
+    "display_phone": "(212) 433-5800",
+    "distance": 678.4354371939112
+  },
+  {
+    "id": "grg_0Zt9WwCmXHPjWu7b-Q",
+    "alias": "bk-seafood-market-brooklyn",
+    "name": "BK Seafood Market",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DFufG_mdqsA6-ZYfyUducA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bk-seafood-market-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 19,
+    "categories": [
+      {
+        "alias": "cantonese",
+        "title": "Cantonese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.63236,
+      "longitude": -74.01091
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "842 64th St",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11220",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "842 64th St",
+        "Brooklyn, NY 11220"
+      ]
+    },
+    "phone": "+17188366888",
+    "display_phone": "(718) 836-6888",
+    "distance": 8243.550254016833
+  },
+  {
+    "id": "hSpZSqElyjHTfE4lQJ97Cg",
+    "alias": "mareluna-new-york",
+    "name": "Mareluna",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qpfkeUNkXgDwNKP4VaWwLQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mareluna-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 47,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "modern_european",
+        "title": "Modern European"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 40.726843,
+      "longitude": -74.0019013
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "137 Sullivan St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "137 Sullivan St",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12125107774",
+    "display_phone": "(212) 510-7774",
+    "distance": 2464.246809933531
+  },
+  {
+    "id": "TZwhUdT73d9oMoTs6knwAg",
+    "alias": "kingfisher-brooklyn",
+    "name": "Kingfisher",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2wOtYFk4xrxNbaQOKNDZvQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kingfisher-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.659734,
+      "longitude": -73.953146
+    },
+    "transactions": [],
+    "location": {
+      "address1": "505 Rogers Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11225",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "505 Rogers Ave",
+        "Brooklyn, NY 11225"
+      ]
+    },
+    "phone": "+13477898207",
+    "display_phone": "(347) 789-8207",
+    "distance": 6150.84172838361
+  },
+  {
+    "id": "WJS06XxRdc6DD1s4LWE9HA",
+    "alias": "fish-cheeks-new-york",
+    "name": "Fish Cheeks",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pqupe3fe52869QQ23KkiBg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fish-cheeks-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1145,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.7258,
+      "longitude": -73.9927
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "55 Bond St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "55 Bond St",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12126772223",
+    "display_phone": "(212) 677-2223",
+    "distance": 2258.7720584764224
+  },
+  {
+    "id": "CqtT8rPaSmrRClUBbqsCFA",
+    "alias": "seamore-s-dumbo-brooklyn-3",
+    "name": "Seamore’s Dumbo",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MJTMu94LfCy_HdXnZj2Yag/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/seamore-s-dumbo-brooklyn-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 165,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 40.7032,
+      "longitude": -73.99145
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "66 Water St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "66 Water St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+17186636550",
+    "display_phone": "(718) 663-6550",
+    "distance": 361.28143291784545
+  },
+  {
+    "id": "_G5JMPOkU6IG1OKbhw3gXA",
+    "alias": "peaches-prime-brooklyn",
+    "name": "Peaches Prime",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/peaches-prime-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "southern",
+        "title": "Southern"
+      },
+      {
+        "alias": "newamerican",
+        "title": "American (New)"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 40.68777,
+      "longitude": -73.97887
+    },
+    "transactions": [],
+    "location": {
+      "address1": "590 Fulton St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11217",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "590 Fulton St",
+        "Brooklyn, NY 11217"
+      ]
+    },
+    "phone": "+16076546678",
+    "display_phone": "(607) 654-6678",
+    "distance": 2348.4279849630134
+  },
+  {
+    "id": "02tI_WGqaHc4Yw1D3NsQNw",
+    "alias": "vertex-coffee-roasters-ann-arbor",
+    "name": "Vertex Coffee Roasters",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MCF7LOPA7sTojrwRbAStMA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vertex-coffee-roasters-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 26,
+    "categories": [
+      {
+        "alias": "coffeeroasteries",
+        "title": "Coffee Roasteries"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.27521,
+      "longitude": -83.73191
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "location": {
+      "address1": "1335 S University Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1335 S University Ave",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17347807060",
+    "display_phone": "(734) 780-7060",
+    "distance": 779.9320006126263
+  },
+  {
+    "id": "e8XOOdsnY_Y1y8MB8vSbrw",
+    "alias": "hyperion-coffee-ann-arbor-ann-arbor",
+    "name": "Hyperion Coffee - Ann Arbor",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eym6I6NMmfowro75u7OvhA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hyperion-coffee-ann-arbor-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 15,
+    "categories": [
+      {
+        "alias": "coffeeroasteries",
+        "title": "Coffee Roasteries"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.27941,
+      "longitude": -83.74918
+    },
+    "transactions": [],
+    "location": {
+      "address1": "111 W Liberty St",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "111 W Liberty St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 719.7049345703614
+  },
+  {
+    "id": "KhkEx3xP-CGFFqNQJt77-w",
+    "alias": "cahoots-cafe-ann-arbor-3",
+    "name": "Cahoots Cafe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P6P5hvvuWhrsGvOvQfIvSA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cahoots-cafe-ann-arbor-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 18,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.2811824,
+      "longitude": -83.7468677
+    },
+    "transactions": [],
+    "location": {
+      "address1": "206 E Huron St",
+      "address2": "Ste 2",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "206 E Huron St",
+        "Ste 2",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17342498898",
+    "display_phone": "(734) 249-8898",
+    "distance": 676.6227826698583
+  },
+  {
+    "id": "26kppAVn9XoIx81FfJML9Q",
+    "alias": "roosroast-coffee-ann-arbor",
+    "name": "RoosRoast Coffee",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zQW0kqDhXqbAuJPkUum3Qg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/roosroast-coffee-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 264,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.25524,
+      "longitude": -83.73411
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "1155 Rosewood St",
+      "address2": "Ste B",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1155 Rosewood St",
+        "Ste B",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17342229202",
+    "display_phone": "(734) 222-9202",
+    "distance": 2463.718020446947
+  },
+  {
+    "id": "IotuxJ8M1kDe9lK-cd1asQ",
+    "alias": "comet-coffee-ann-arbor",
+    "name": "Comet Coffee",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dc9cbUfCjxEKhq6DLLS3Gw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/comet-coffee-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 269,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.2784368818938,
+      "longitude": -83.7414034863831
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "16 Nickels Arcade",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "16 Nickels Arcade",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17342220579",
+    "display_phone": "(734) 222-0579",
+    "distance": 187.62369578519582
+  },
+  {
+    "id": "R_TZ--Ep7sIA3ftTjYqjPA",
+    "alias": "drip-house-coffee-ann-arbor",
+    "name": "Drip House Coffee",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KFP4yNNAWp8YDKP6N41UvQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/drip-house-coffee-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 83,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "cakeshop",
+        "title": "Patisserie/Cake Shop"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.26456,
+      "longitude": -83.750508
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "1336 S Main St",
+      "address2": null,
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1336 S Main St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17348004135",
+    "display_phone": "(734) 800-4135",
+    "distance": 1560.021986596287
+  },
+  {
+    "id": "Ry5yz6NVeSd1GM8iSklaVA",
+    "alias": "the-common-cup-ann-arbor",
+    "name": "The Common Cup",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OnMTfzxSz-09ihzmeb_pKA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-common-cup-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 46,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "bagels",
+        "title": "Bagels"
+      },
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.27385,
+      "longitude": -83.72876
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "1511 Washtenaw Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1511 Washtenaw Ave",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17343276914",
+    "display_phone": "(734) 327-6914",
+    "distance": 1094.1105629102592
+  },
+  {
+    "id": "vONGfjuEYWtzvReseHJLrw",
+    "alias": "lab-ann-arbor",
+    "name": "Lab",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eXfGLES6Ir8uFhGoniu4TQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lab-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 256,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.2795599,
+      "longitude": -83.74278
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "505 E Liberty",
+      "address2": "Ste 300",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "505 E Liberty",
+        "Ste 300",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17342772444",
+    "display_phone": "(734) 277-2444",
+    "distance": 334.1014416133357
+  },
+  {
+    "id": "g5zWjbpggtWRRWPnqNXgxQ",
+    "alias": "mighty-good-coffee-mercantile-ann-arbor",
+    "name": "Mighty Good Coffee - Mercantile",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SOWMTftu9VR22LgrEUzclw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mighty-good-coffee-mercantile-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 190,
+    "categories": [
+      {
+        "alias": "coffeeroasteries",
+        "title": "Coffee Roasteries"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.28296,
+      "longitude": -83.74881
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "217 N Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "217 N Main St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17342224514",
+    "display_phone": "(734) 222-4514",
+    "distance": 929.9548712044552
+  },
+  {
+    "id": "A2HQfzr0dTfRM9TYl7TsoA",
+    "alias": "cannelle-ann-arbor",
+    "name": "Cannelle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s-qfzlzcBKDB7IM4KA65tw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cannelle-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 13,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "cakeshop",
+        "title": "Patisserie/Cake Shop"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.2803,
+      "longitude": -83.74807
+    },
+    "transactions": [],
+    "location": {
+      "address1": "110 E Washington St",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "110 E Washington St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17345191300",
+    "display_phone": "(734) 519-1300",
+    "distance": 687.3398545032118
+  },
+  {
+    "id": "eGRnTWnCI1KaaP7oLhU01w",
+    "alias": "m36-coffee-roasters-ann-arbor",
+    "name": "M36 Coffee Roasters",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q1CJxEr_xGe9AXQsJ1nSyw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/m36-coffee-roasters-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 12,
+    "categories": [
+      {
+        "alias": "coffeeroasteries",
+        "title": "Coffee Roasteries"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.27512,
+      "longitude": -83.73554
+    },
+    "transactions": [],
+    "location": {
+      "address1": "1101 S University Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1101 S University Ave",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17344498910",
+    "display_phone": "(734) 449-8910",
+    "distance": 498.7880247696304
+  },
+  {
+    "id": "llSPVr8c0czqKqK3yxpttQ",
+    "alias": "19-drips-ann-arbor",
+    "name": "19 Drips",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tY23u4V0Qwd9Ptu_h2ITSw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/19-drips-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 68,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.273709675737344,
+      "longitude": -83.7775907898728
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "location": {
+      "address1": "2263 W Liberty Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2263 W Liberty Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17345850461",
+    "display_phone": "(734) 585-0461",
+    "distance": 3011.011544891069
+  },
+  {
+    "id": "cBY4_sJSSqGveEAzxF-C5Q",
+    "alias": "mujo-cafe-ann-arbor-3",
+    "name": "Mujo Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZVolPI0gB7f4YQjEh-jvw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mujo-cafe-ann-arbor-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 3.0,
+    "coordinates": {
+      "latitude": 42.2904874,
+      "longitude": -83.7158305
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "2281 Bonisteel Blvd",
+      "address2": "",
+      "address3": "Duderstadt Center",
+      "city": "Ann Arbor",
+      "zip_code": "48105",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2281 Bonisteel Blvd",
+        "Duderstadt Center",
+        "Ann Arbor, MI 48105"
+      ]
+    },
+    "phone": "+17346154325",
+    "display_phone": "(734) 615-4325",
+    "distance": 2640.3774536366873
+  },
+  {
+    "id": "cRSkUJltr2j5MNbvcN2HPw",
+    "alias": "ann-arbor-coffee-roasting-company-ann-arbor",
+    "name": "Ann Arbor Coffee Roasting Company",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MHPZbSSP9OkC7LJ3DOf7DQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ann-arbor-coffee-roasting-company-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.27851,
+      "longitude": -83.74115
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "324 South State St",
+      "address2": null,
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "324 South State St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 194.30291813858162
+  },
+  {
+    "id": "DqKnaIclxErF1JXdWanJ8g",
+    "alias": "the-songbird-cafe-ann-arbor",
+    "name": "The Songbird Cafe",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tVqA-WHE2W3bg21AFK-yBw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-songbird-cafe-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 373,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.303807,
+      "longitude": -83.706791
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "2707 Plymouth Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48105",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2707 Plymouth Rd",
+        "Ann Arbor, MI 48105"
+      ]
+    },
+    "phone": "+17347807100",
+    "display_phone": "(734) 780-7100",
+    "distance": 4131.777190665688
+  },
+  {
+    "id": "RYQXu4iJITDS1oPkFbjlrQ",
+    "alias": "dozer-coffee-ann-arbor",
+    "name": "DOZER Coffee",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zkiMGYzEB1o1blfhLt_8pA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dozer-coffee-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 34,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.28319748991759,
+      "longitude": -83.80263384049164
+    },
+    "transactions": [],
+    "location": {
+      "address1": "112 Jackson Plz",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "112 Jackson Plz",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349295217",
+    "display_phone": "(734) 929-5217",
+    "distance": 5102.506424212862
+  },
+  {
+    "id": "QzvW6jDg3hcPbwmf__JAUw",
+    "alias": "roosroast-liberty-ann-arbor-3",
+    "name": "RoosRoast Liberty",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6OCwshVTRnQFEBE2hUY6-w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/roosroast-liberty-ann-arbor-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 138,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "coffeeroasteries",
+        "title": "Coffee Roasteries"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.2796609300119,
+      "longitude": -83.7477365881205
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "117 E Liberty St",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "117 E Liberty St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17343692494",
+    "display_phone": "(734) 369-2494",
+    "distance": 625.5588318468389
+  },
+  {
+    "id": "Y7kfOWvRlJ8Y60dbboUPyg",
+    "alias": "black-diesel-coffee-ann-arbor",
+    "name": "Black Diesel Coffee",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DlqPPpXRnTW4BvaJyQMkFA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/black-diesel-coffee-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 112,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.26112,
+      "longitude": -83.73062
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "1423 E Stadium Blvd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1423 E Stadium Blvd",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17344368355",
+    "display_phone": "(734) 436-8355",
+    "distance": 1951.4397943777094
+  },
+  {
+    "id": "AV62pMy05T_86JMzKMR2ig",
+    "alias": "palgong-tea-ann-arbor",
+    "name": "Palgong Tea",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zIw87AieYnp1R1ZTW9VyHg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/palgong-tea-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "bubbletea",
+        "title": "Bubble Tea"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.253728549352225,
+      "longitude": -83.75209764110454
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2264 S Main St",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2264 S Main St",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17348822870",
+    "display_phone": "(734) 882-2870",
+    "distance": 2712.16848537231
+  },
+  {
+    "id": "aVuWn5Mj5fcfd46Z7xfT0A",
+    "alias": "york-ann-arbor",
+    "name": "York",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CHEjq-2kmHtQPFYyxupTDw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/york-ann-arbor?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 140,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.2576789855957,
+      "longitude": -83.728157043457
+    },
+    "transactions": [
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "1928 Packard St",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48104",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "1928 Packard St",
+        "Ann Arbor, MI 48104"
+      ]
+    },
+    "phone": "+17346620798",
+    "display_phone": "(734) 662-0798",
+    "distance": 2378.2221625407315
+  },
+  {
+    "id": "YvWQMlMjtYmVmheH97tTlQ",
+    "alias": "crab-house-all-you-can-eat-seafood-new-york",
+    "name": "Crab House All You Can Eat Seafood",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1J0qtJbyF3aYyTobEOzjgg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/crab-house-all-you-can-eat-seafood-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 585,
+    "categories": [
+      {
+        "alias": "buffets",
+        "title": "Buffets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.759664,
+      "longitude": -73.969776
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$$",
+    "location": {
+      "address1": "135 E 55th St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10022",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "135 E 55th St",
+        "New York, NY 10022"
+      ]
+    },
+    "phone": "+12129330264",
+    "display_phone": "(212) 933-0264",
+    "distance": 6381.672939795404
+  },
+  {
+    "id": "ehUuSk5gPTCQmwS_ubgKRA",
+    "alias": "upstate-craft-beer-and-oyster-bar-new-york-4",
+    "name": "Upstate Craft Beer & Oyster Bar",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fbfAcyDvcxXfXYlR7AWBZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/upstate-craft-beer-and-oyster-bar-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 2025,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.726373,
+      "longitude": -73.986557
+    },
+    "transactions": [
+      "delivery",
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "95 1st Ave",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "95 1st Ave",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+16467915400",
+    "display_phone": "(646) 791-5400",
+    "distance": 2416.715359115974
+  },
+  {
+    "id": "hfMtSdxRsC3JQP3yrm6nag",
+    "alias": "claw-daddys-new-york",
+    "name": "Claw Daddy's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RCru71cTtO-TtqRw50rc2w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/claw-daddys-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1901,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.722071,
+      "longitude": -73.98847
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "185 Orchard St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10002",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "185 Orchard St",
+        "New York, NY 10002"
+      ]
+    },
+    "phone": "+16465906816",
+    "display_phone": "(646) 590-6816",
+    "distance": 1912.7787900899964
+  },
+  {
+    "id": "wRHUJ69-f4CiV5BRY72mUg",
+    "alias": "aqua-boil-new-york-2",
+    "name": "Aqua Boil",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QAKFNfW-qsGJL3timfyf3w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/aqua-boil-new-york-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 534,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "comfortfood",
+        "title": "Comfort Food"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.763702,
+      "longitude": -73.988386
+    },
+    "transactions": [
+      "delivery",
+      "pickup",
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "750 9th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10019",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "750 9th Ave",
+        "New York, NY 10019"
+      ]
+    },
+    "phone": "+12124647428",
+    "display_phone": "(212) 464-7428",
+    "distance": 6497.896610888184
+  },
+  {
+    "id": "5CuYWr0-cE01HxlBu5Ka6g",
+    "alias": "carne-mare-new-york-5",
+    "name": "Carne Mare",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CZQZFL2sxptcNAFNWxZAJQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/carne-mare-new-york-5?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 134,
+    "categories": [
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.70568649199326,
+      "longitude": -74.00218961453646
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "89 South St",
+      "address2": "",
+      "address3": "Pier 17",
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "89 South St",
+        "Pier 17",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+12122804600",
+    "display_phone": "(212) 280-4600",
+    "distance": 666.1578018948308
+  },
+  {
+    "id": "6jPju63RQy3P3ov9-ejP7g",
+    "alias": "sea-wolf-williamsburg-waterfront-brooklyn",
+    "name": "Sea Wolf - Williamsburg Waterfront",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZEzGcEUj4cRBdHR6qVZtIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sea-wolf-williamsburg-waterfront-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 263,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.709946,
+      "longitude": -73.968608
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "420 Kent Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "420 Kent Ave",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+17182332792",
+    "display_phone": "(718) 233-2792",
+    "distance": 2222.127845327241
+  },
+  {
+    "id": "1x2hn3e9sCCZca1cnRTpEg",
+    "alias": "claw-daddys-brooklyn",
+    "name": "Claw Daddy's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ABHo2xn4dcpVspJkaQ_g-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/claw-daddys-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 609,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.68561,
+      "longitude": -73.98035
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "31 3rd Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11217",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "31 3rd Ave",
+        "Brooklyn, NY 11217"
+      ]
+    },
+    "phone": "+13473188893",
+    "display_phone": "(347) 318-8893",
+    "distance": 2500.3200581143838
+  },
+  {
+    "id": "LpVbI-E9C-CSp7WhU5h2Iw",
+    "alias": "fishmarket-restaurant-new-york",
+    "name": "Fishmarket Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-rU1vuRmHkzA6nhmoVRHnQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fishmarket-restaurant-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 617,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "divebars",
+        "title": "Dive Bars"
+      },
+      {
+        "alias": "malaysian",
+        "title": "Malaysian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.70717,
+      "longitude": -74.00192
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "111 South St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "111 South St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+19173638101",
+    "display_phone": "(917) 363-8101",
+    "distance": 667.9406968270184
+  },
+  {
+    "id": "CqtT8rPaSmrRClUBbqsCFA",
+    "alias": "seamore-s-dumbo-brooklyn-3",
+    "name": "Seamore’s Dumbo",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MJTMu94LfCy_HdXnZj2Yag/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/seamore-s-dumbo-brooklyn-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 165,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 40.7032,
+      "longitude": -73.99145
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "66 Water St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "66 Water St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+17186636550",
+    "display_phone": "(718) 663-6550",
+    "distance": 361.28143291784545
+  },
+  {
+    "id": "sEuLm5fQgWkkiYBt6OphWQ",
+    "alias": "greenpoint-fish-and-lobster-brooklyn",
+    "name": "Greenpoint Fish & Lobster",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gEsyoyyfBAiJu8FkwLHhbw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/greenpoint-fish-and-lobster-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 378,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.724128,
+      "longitude": -73.9491199
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "114 Nassau Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11222",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "114 Nassau Ave",
+        "Brooklyn, NY 11222"
+      ]
+    },
+    "phone": "+17183131913",
+    "display_phone": "(718) 313-1913",
+    "distance": 4337.204417405035
+  },
+  {
+    "id": "zfiXI8AwYBRfWjPyv6oh3w",
+    "alias": "lobster-place-new-york-4",
+    "name": "Lobster Place",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zgCitW9dNXpxlehrZuGBTg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lobster-place-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1453,
+    "categories": [
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7427413905213,
+      "longitude": -74.0060118057704
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "75 9th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "75 9th Ave",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12122555672",
+    "display_phone": "(212) 255-5672",
+    "distance": 4263.133873590816
+  },
+  {
+    "id": "Dr_eezrA2Cc_azMYnwhRkA",
+    "alias": "sup-crab-new-york",
+    "name": "Sup Crab",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zhCT384ZQTFElVS6dEwDrg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sup-crab-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 393,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.71733,
+      "longitude": -73.99502
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "97 Bowery",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10002",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "97 Bowery",
+        "New York, NY 10002"
+      ]
+    },
+    "phone": "+12129258083",
+    "display_phone": "(212) 925-8083",
+    "distance": 1327.6547690924829
+  },
+  {
+    "id": "tiSw-6DIm3-mMORyEIOVyg",
+    "alias": "the-boil-astoria",
+    "name": "The Boil",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e912RmzXUdS-RkBzufblpw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-boil-astoria?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 2037,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7638547,
+      "longitude": -73.9143909
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "40-11 30th Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Astoria",
+      "zip_code": "11103",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "40-11 30th Ave",
+        "Astoria, NY 11103"
+      ]
+    },
+    "phone": "+13479353015",
+    "display_phone": "(347) 935-3015",
+    "distance": 9354.533182566745
+  },
+  {
+    "id": "20LSOx_4K2wghTsUx4gSsg",
+    "alias": "oceanic-boil-jackson-heights",
+    "name": "Oceanic Boil",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aF45SWZgZoZsVsBXgEgDig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/oceanic-boil-jackson-heights?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 692,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.7498297,
+      "longitude": -73.8821356
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "84-20 37th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Jackson Heights",
+      "zip_code": "11372",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "84-20 37th Ave",
+        "Jackson Heights, NY 11372"
+      ]
+    },
+    "phone": "+19292966338",
+    "display_phone": "(929) 296-6338",
+    "distance": 10677.943760861535
+  },
+  {
+    "id": "kxykwx5qTWBhlMh18MQ82Q",
+    "alias": "lukes-lobster-fidi-new-york",
+    "name": "Luke's Lobster FiDi",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q5vevyMl8FEO-mly8hh1wA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lukes-lobster-fidi-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1253,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.7046213003984,
+      "longitude": -74.0107793876969
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "26 S William St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10004",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "26 S William St",
+        "New York, NY 10004"
+      ]
+    },
+    "phone": "+12127471700",
+    "display_phone": "(212) 747-1700",
+    "distance": 1392.7033987694713
+  },
+  {
+    "id": "0087AC_NnFRtC0c9FsB9pw",
+    "alias": "the-boil-new-york-5",
+    "name": "The Boil",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lzFeR6PJ2JH9LzdHVYUILQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-boil-new-york-5?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 892,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.730316162745154,
+      "longitude": -73.99429517055144
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "17 Waverly Pl",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "17 Waverly Pl",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+16468337110",
+    "display_phone": "(646) 833-7110",
+    "distance": 2765.559127548041
+  },
+  {
+    "id": "4M3jBdELCcCKJl1mEnTxzQ",
+    "alias": "lamias-fish-market-new-york-2",
+    "name": "Lamia's Fish Market",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ItJosvmrWmSoci0MHvjzrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lamias-fish-market-new-york-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 582,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.722979,
+      "longitude": -73.9825102
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "47 Ave B",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10009",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "47 Ave B",
+        "New York, NY 10009"
+      ]
+    },
+    "phone": "+12127773650",
+    "display_phone": "(212) 777-3650",
+    "distance": 2188.0590330253954
+  },
+  {
+    "id": "nOjGNqPcu5jHRRElOndQqQ",
+    "alias": "red-hook-lobster-pound-brooklyn",
+    "name": "Red Hook Lobster Pound",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xI2_dAdb-PbiKCLsscJcrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/red-hook-lobster-pound-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1244,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.6797687107191,
+      "longitude": -74.0103686973453
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "284 Van Brunt St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11231",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "284 Van Brunt St",
+        "Brooklyn, NY 11231"
+      ]
+    },
+    "phone": "+17188587650",
+    "display_phone": "(718) 858-7650",
+    "distance": 3160.4176259685423
+  },
+  {
+    "id": "grg_0Zt9WwCmXHPjWu7b-Q",
+    "alias": "bk-seafood-market-brooklyn",
+    "name": "BK Seafood Market",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DFufG_mdqsA6-ZYfyUducA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bk-seafood-market-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 19,
+    "categories": [
+      {
+        "alias": "cantonese",
+        "title": "Cantonese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.63236,
+      "longitude": -74.01091
+    },
+    "transactions": [
+      "delivery",
+      "pickup",
+      "restaurant_reservation"
+    ],
+    "location": {
+      "address1": "842 64th St",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11220",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "842 64th St",
+        "Brooklyn, NY 11220"
+      ]
+    },
+    "phone": "+17188366888",
+    "display_phone": "(718) 836-6888",
+    "distance": 8243.550254016833
+  },
+  {
+    "id": "O4rYM6YBj90W2u7RhG3Mvg",
+    "alias": "maison-premiere-brooklyn",
+    "name": "Maison Premiere",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sYBR9fpPCOcYF6mE6eQ2MA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/maison-premiere-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1215,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "venues",
+        "title": "Venues & Event Spaces"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7142634,
+      "longitude": -73.96166459999999
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "298 Bedford Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "298 Bedford Ave",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+13478895710",
+    "display_phone": "(347) 889-5710",
+    "distance": 2919.7865394988276
+  },
+  {
+    "id": "YvWQMlMjtYmVmheH97tTlQ",
+    "alias": "crab-house-all-you-can-eat-seafood-new-york",
+    "name": "Crab House All You Can Eat Seafood",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1J0qtJbyF3aYyTobEOzjgg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/crab-house-all-you-can-eat-seafood-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 589,
+    "categories": [
+      {
+        "alias": "buffets",
+        "title": "Buffets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.759664,
+      "longitude": -73.969776
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$$",
+    "location": {
+      "address1": "135 E 55th St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10022",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "135 E 55th St",
+        "New York, NY 10022"
+      ]
+    },
+    "phone": "+12129330264",
+    "display_phone": "(212) 933-0264",
+    "distance": 6381.672939795404
+  },
+  {
+    "id": "LpVbI-E9C-CSp7WhU5h2Iw",
+    "alias": "fishmarket-restaurant-new-york",
+    "name": "Fishmarket Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-rU1vuRmHkzA6nhmoVRHnQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fishmarket-restaurant-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 619,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "divebars",
+        "title": "Dive Bars"
+      },
+      {
+        "alias": "malaysian",
+        "title": "Malaysian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.70717,
+      "longitude": -74.00192
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "111 South St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "111 South St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+19173638101",
+    "display_phone": "(917) 363-8101",
+    "distance": 667.9406968270184
+  },
+  {
+    "id": "hdiuRS9sVZSMReZm4oV5SA",
+    "alias": "da-andrea-new-york",
+    "name": "Da Andrea",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZbJxx7Rl8fUH7Pg4GU2p3g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/da-andrea-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1666,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.736218,
+      "longitude": -73.99597
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "35 W 13th St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "35 W 13th St",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12123671979",
+    "display_phone": "(212) 367-1979",
+    "distance": 3424.7293369303584
+  },
+  {
+    "id": "6jPju63RQy3P3ov9-ejP7g",
+    "alias": "sea-wolf-williamsburg-waterfront-brooklyn",
+    "name": "Sea Wolf - Williamsburg Waterfront",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZEzGcEUj4cRBdHR6qVZtIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sea-wolf-williamsburg-waterfront-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 263,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.709946,
+      "longitude": -73.968608
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "420 Kent Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "420 Kent Ave",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+17182332792",
+    "display_phone": "(718) 233-2792",
+    "distance": 2222.127845327241
+  },
+  {
+    "id": "ehUuSk5gPTCQmwS_ubgKRA",
+    "alias": "upstate-craft-beer-and-oyster-bar-new-york-4",
+    "name": "Upstate Craft Beer & Oyster Bar",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fbfAcyDvcxXfXYlR7AWBZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/upstate-craft-beer-and-oyster-bar-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 2028,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.726373,
+      "longitude": -73.986557
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "95 1st Ave",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "95 1st Ave",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+16467915400",
+    "display_phone": "(646) 791-5400",
+    "distance": 2416.715359115974
+  },
+  {
+    "id": "sEuLm5fQgWkkiYBt6OphWQ",
+    "alias": "greenpoint-fish-and-lobster-brooklyn",
+    "name": "Greenpoint Fish & Lobster",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gEsyoyyfBAiJu8FkwLHhbw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/greenpoint-fish-and-lobster-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 378,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.724128,
+      "longitude": -73.9491199
+    },
+    "transactions": [
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "114 Nassau Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11222",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "114 Nassau Ave",
+        "Brooklyn, NY 11222"
+      ]
+    },
+    "phone": "+17183131913",
+    "display_phone": "(718) 313-1913",
+    "distance": 4337.204417405035
+  },
+  {
+    "id": "ryvBsB9FrBBZDak87iGS1w",
+    "alias": "sea-fire-grill-new-york",
+    "name": "Sea Fire Grill",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/exMqPoCEi2btoGtAd8kcIQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sea-fire-grill-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1438,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.754694494554826,
+      "longitude": -73.97222533963885
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "158 E 48th St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10017",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "158 E 48th St",
+        "New York, NY 10017"
+      ]
+    },
+    "phone": "+12129353785",
+    "display_phone": "(212) 935-3785",
+    "distance": 5783.391249802328
+  },
+  {
+    "id": "zfiXI8AwYBRfWjPyv6oh3w",
+    "alias": "lobster-place-new-york-4",
+    "name": "Lobster Place",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zgCitW9dNXpxlehrZuGBTg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lobster-place-new-york-4?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1453,
+    "categories": [
+      {
+        "alias": "seafoodmarkets",
+        "title": "Seafood Markets"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7427413905213,
+      "longitude": -74.0060118057704
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "75 9th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "75 9th Ave",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12122555672",
+    "display_phone": "(212) 255-5672",
+    "distance": 4263.133873590816
+  },
+  {
+    "id": "grg_0Zt9WwCmXHPjWu7b-Q",
+    "alias": "bk-seafood-market-brooklyn",
+    "name": "BK Seafood Market",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DFufG_mdqsA6-ZYfyUducA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bk-seafood-market-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 19,
+    "categories": [
+      {
+        "alias": "cantonese",
+        "title": "Cantonese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.63236,
+      "longitude": -74.01091
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "842 64th St",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11220",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "842 64th St",
+        "Brooklyn, NY 11220"
+      ]
+    },
+    "phone": "+17188366888",
+    "display_phone": "(718) 836-6888",
+    "distance": 8243.550254016833
+  },
+  {
+    "id": "2LcsDUTlvovnFz-SEcSJTQ",
+    "alias": "astoria-seafood-long-island-city",
+    "name": "Astoria Seafood",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IqETw4qR0zOQDL2K1moG_Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/astoria-seafood-long-island-city?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 870,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "greek",
+        "title": "Greek"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.754,
+      "longitude": -73.9298699
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "37-10 33rd St",
+      "address2": "",
+      "address3": "",
+      "city": "Long Island City",
+      "zip_code": "11101",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "37-10 33rd St",
+        "Long Island City, NY 11101"
+      ]
+    },
+    "phone": "+17183922680",
+    "display_phone": "(718) 392-2680",
+    "distance": 7657.624763799523
+  },
+  {
+    "id": "G9b640a2fZs7s6Q-cWPkiQ",
+    "alias": "tin-building-by-jean-georges-new-york",
+    "name": "Tin Building by Jean-Georges",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gaOYSwluo1KjpZxiIEhzTw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tin-building-by-jean-georges-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 62,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      },
+      {
+        "alias": "food_court",
+        "title": "Food Court"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.706200062546294,
+      "longitude": -74.00226642004867
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "96 South St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "96 South St",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 677.3131450588168
+  },
+  {
+    "id": "O4rYM6YBj90W2u7RhG3Mvg",
+    "alias": "maison-premiere-brooklyn",
+    "name": "Maison Premiere",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sYBR9fpPCOcYF6mE6eQ2MA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/maison-premiere-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1215,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "venues",
+        "title": "Venues & Event Spaces"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7142634,
+      "longitude": -73.96166459999999
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "298 Bedford Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "298 Bedford Ave",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+13478895710",
+    "display_phone": "(347) 889-5710",
+    "distance": 2919.7865394988276
+  },
+  {
+    "id": "HWf1Y00FrxAVMJXrlRYdhw",
+    "alias": "isla-and-co-new-york",
+    "name": "Isla & Co.",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U2nwhRvi90zFnJm6is0HVQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/isla-and-co-new-york?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 55,
+    "categories": [
+      {
+        "alias": "australian",
+        "title": "Australian"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.751771,
+      "longitude": -73.984269
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "25 W 38th St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10018",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "25 W 38th St",
+        "New York, NY 10018"
+      ]
+    },
+    "phone": "+13327997398",
+    "display_phone": "(332) 799-7398",
+    "distance": 5227.465913824381
+  },
+  {
+    "id": "DGhWO1sUWydVeR5j5ZZaMw",
+    "alias": "la-grande-boucherie-new-york-2",
+    "name": "La Grande Boucherie",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b9URGcuuhnLq7J-__pHIng/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/la-grande-boucherie-new-york-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1768,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.7626274,
+      "longitude": -73.98084109999999
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "145 W 53rd St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10019",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "145 W 53rd St",
+        "New York, NY 10019"
+      ]
+    },
+    "phone": "+12125107714",
+    "display_phone": "(212) 510-7714",
+    "distance": 6458.633757596852
+  },
+  {
+    "id": "CqtT8rPaSmrRClUBbqsCFA",
+    "alias": "seamore-s-dumbo-brooklyn-3",
+    "name": "Seamore’s Dumbo",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MJTMu94LfCy_HdXnZj2Yag/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/seamore-s-dumbo-brooklyn-3?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 166,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 40.7032,
+      "longitude": -73.99145
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "66 Water St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "66 Water St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+17186636550",
+    "display_phone": "(718) 663-6550",
+    "distance": 361.28143291784545
+  },
+  {
+    "id": "aSFBv64GBpMOFPqIleeQFQ",
+    "alias": "lure-fishbar-new-york-2",
+    "name": "Lure Fishbar",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zh47yiTYJdmzLGJ70oT92w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lure-fishbar-new-york-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 1852,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.724612166991,
+      "longitude": -73.998574708004
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "142 Mercer St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "142 Mercer St",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12124317676",
+    "display_phone": "(212) 431-7676",
+    "distance": 2161.6364530898604
+  },
+  {
+    "id": "1x2hn3e9sCCZca1cnRTpEg",
+    "alias": "claw-daddys-brooklyn",
+    "name": "Claw Daddy's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ABHo2xn4dcpVspJkaQ_g-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/claw-daddys-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 609,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.68561,
+      "longitude": -73.98035
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "31 3rd Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11217",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "31 3rd Ave",
+        "Brooklyn, NY 11217"
+      ]
+    },
+    "phone": "+13473188893",
+    "display_phone": "(347) 318-8893",
+    "distance": 2500.3200581143838
+  },
+  {
+    "id": "MGd6HFEq1ALD58XWNviSXw",
+    "alias": "time-out-market-new-york-brooklyn",
+    "name": "Time Out Market New York",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L2-6QW46v5aZFpfAD2SK1A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/time-out-market-new-york-brooklyn?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 425,
+    "categories": [
+      {
+        "alias": "food_court",
+        "title": "Food Court"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.70342863348067,
+      "longitude": -73.99214637055226
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "55 Water St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "55 Water St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+19178104855",
+    "display_phone": "(917) 810-4855",
+    "distance": 288.11900780114274
+  },
+  {
+    "id": "C7s1ohdoF8UtToowLsdIsQ",
+    "alias": "cobble-fish-new-york-2",
+    "name": "Cobble Fish",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1fCl3mln1X1zAQPg-g3f3Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cobble-fish-new-york-2?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 24,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.70530194592761,
+      "longitude": -74.00257774322735
+    },
+    "transactions": [],
+    "location": {
+      "address1": "89 South St",
+      "address2": "Pier 16",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10038",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "89 South St",
+        "Pier 16",
+        "New York, NY 10038"
+      ]
+    },
+    "phone": "+12122102997",
+    "display_phone": "(212) 210-2997",
+    "distance": 698.5153237996998
+  },
+  {
+    "id": "EDucGBSfQ0YIbxdHS-KnCg",
+    "alias": "sagaponack-new-york-6",
+    "name": "Sagaponack",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g7wkLnlAJaa0ELDgltoytQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sagaponack-new-york-6?adjust_creative=bxUYCNnnEFq0xhdu-43bIw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bxUYCNnnEFq0xhdu-43bIw",
+    "review_count": 202,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "gourmet",
+        "title": "Specialty Food"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.740937,
+      "longitude": -73.99081
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "4 W 22nd St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10010",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "4 W 22nd St",
+        "New York, NY 10010"
+      ]
+    },
+    "phone": "+12122292226",
+    "display_phone": "(212) 229-2226",
+    "distance": 3957.5096807378354
+  }
+]
