@@ -139,7 +139,7 @@ def create_cache_tree(data, root):
 
 
 if __name__ == "__main__":
-    data = load_cahce('test3.json')
+    data = load_cahce('cache_tree.json')
     root = TreeNode(children={})
     price_degree = '$'
     for i in range(4):
@@ -154,7 +154,7 @@ if __name__ == "__main__":
         store_in_tree(Place(json=business), root)
 
     try:
-        dict_exist = read_json('test4.json')
+        dict_exist = read_json('cache_search.json')
     except:
         dict_exist = {}
 
@@ -191,8 +191,8 @@ if __name__ == "__main__":
         if option2 == 'y':
             continue
         else:
-            write_json('test3.json', data)
-            write_json('test4.json', dict_exist)
+            write_json('cache_tree.json', data)
+            write_json('cache_search.json', dict_exist)
             print("Bye")
             break
 
