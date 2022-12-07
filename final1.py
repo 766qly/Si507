@@ -90,6 +90,7 @@ def retireve_data_by_term_location(term_name, location, num_obj=20, headers=head
 def find_reviews(id, headers=headers):
     review_url = f'https://api.yelp.com/v3/businesses/{id}/reviews'
     response = requests.get(review_url, headers=headers)
+    write_json('test2.json', data=response.json())
     res = json.loads(response.text)
     return res
 
@@ -97,7 +98,7 @@ def store_in_tree(place, root):
     if not place.price:
         return
     price = place.price
-    city = place.location['city']
+    city = place.location['city'].lower()
     price_node = root.children[price]
     
 
@@ -111,15 +112,36 @@ def store_in_tree(place, root):
     if place.id not in city_node.children.keys():
         city_node.children[f'{place.id}'] = place
 
-def give_recommendation(root, price, city):
+def give_recommendation(root, price, city, data, dict_exist):
     price_node = root.children[price]
+    if city not in price_node.children:
+        do_search(' ', city, data, dict_exist, False)
     city_node = price_node.children[city]
     i = 0
+    rest = []
     for _, place in city_node.children.items():
-        print(place.info())
         i += 1
+        rest.append(place)
+        print(f'{i} {place.info()}')
         if i == 20:
             break
+    rev = input("Do you want to view review of some of the restaurant?(y/n)? ")
+    if rev == 'y':
+        while True:
+            idx = input('Please enter the index of the restraunt that you want to do review. ')
+            if int(idx) > len(rest):
+                print('The idx is invalid, please try again.')
+                continue
+            revi = find_reviews(rest[int(idx) - 1].id)
+            print(f'\n{rest[int(idx) - 1].name}')
+            for i in range(min(5, len(revi))):
+                review = Review(json=revi['reviews'][i])
+                print('\n')
+                review.info()
+            check = input('Do you want to get reviews from other restaurants?(y/n) ')
+
+            if check == 'n':
+                break
 
 
 def load_cahce(filename):
@@ -135,6 +157,26 @@ def create_cache_tree(data, root):
         store_in_tree(Place(json=business), root)
     return root
 
+def do_search(term, location, data, dict_exist, search=True):
+    if f'{term.lower()} {location.lower()}' in dict_exist.keys():
+                results = dict_exist[f'{term.lower()} {location.lower()}']
+    else:
+        try:
+            results = retireve_data_by_term_location(term, location)['businesses']
+        except:
+            return None
+        dict_exist[f'{term.lower()} {location.lower()}'] = results
+        data.extend(results)
+        for business in results:
+            store_in_tree(Place(json=business), root)
+
+    if search:
+        print("Here is the list of searched results:")
+
+        for i in range(len(results)):
+            temp = Place(json=results[i])
+            print(f'{i + 1}' + " " + temp.info())
+    return results
 
 
 
@@ -164,25 +206,55 @@ if __name__ == "__main__":
         if option == 'search':
             term = input("Please first enter the term you want to search. ")
             location = input("Please enter the loaction that you want to do search. ")
-            if f'{term.lower()} {location.lower()}' in dict_exist.keys():
-                results = dict_exist[f'{term.lower()} {location.lower()}']
-            else:
-                results = retireve_data_by_term_location(term, location)['businesses']
-                dict_exist[f'{term.lower()} {location.lower()}'] = results
-                data.extend(results)
-                for business in results:
-                    store_in_tree(Place(json=business), root)
+            # if f'{term.lower()} {location.lower()}' in dict_exist.keys():
+            #     results = dict_exist[f'{term.lower()} {location.lower()}']
+            # else:
+            #     results = retireve_data_by_term_location(term, location)['businesses']
+            #     dict_exist[f'{term.lower()} {location.lower()}'] = results
+            #     data.extend(results)
+            #     for business in results:
+            #         store_in_tree(Place(json=business), root)
 
-            print("Here is the list of searched results:")
+            # print("Here is the list of searched results:")
 
-            for i in range(len(results)):
-                temp = Place(json=results[i])
-                print(f'{i + 1}' + " " + temp.info())
+            # for i in range(len(results)):
+            #     temp = Place(json=results[i])
+            #     print(f'{i + 1}' + " " + temp.info())
+            results = do_search(term, location, data, dict_exist)
+            if not results:
+                print('the information you enter is not valid please restart your appliction')
+                continue
             #TODO review
+            # data = retireve_data_by_term_location('seafood', 'New York City')
+            # res1 = Place(json=data['businesses'][0])
+            # # review = find_reviews(res1.id)
+            # # review1 = Review(json=review['reviews'][0])
+            # # review1.info()
+            rev = input("Do you want to view review of some of the restaurant?(y/n)? ")
+            if rev == 'y':
+                while True:
+                    idx = input('Please enter the index of the restraunt that you want to do review. ')
+                    if int(idx) > len(results):
+                        print('The idx is invalid, please try again.')
+                        continue
+                    pl = Place(json=results[int(idx) - 1])
+                    revi = find_reviews(pl.id)
+                    print(f'\n{pl.name}')
+                    for i in range(min(5, len(revi))):
+                        review = Review(json=revi['reviews'][i])
+                        print('\n')
+                        review.info()
+                    check = input('Do you want to get reviews from other restaurants?(y/n) ')
+
+                    if check == 'n':
+                        break
 
         elif option == 'recommendation':
             #TODO recommendation
-            pass
+            price_level = input("Please first enter the price level you want to search? ")
+            city_rec = input("Please enter the city you want to search? ")
+            give_recommendation(root, price_level, city_rec.lower(), data, dict_exist)
+
         else:
             print("The input is invalid please try again! ")
             continue
@@ -198,13 +270,6 @@ if __name__ == "__main__":
 
 
 
-
-
-    # data = retireve_data_by_term_location('seafood', 'New York City')
-    # res1 = Place(json=data['businesses'][0])
-    # # review = find_reviews(res1.id)
-    # # review1 = Review(json=review['reviews'][0])
-    # # review1.info()
 
     # root = TreeNode(children={})
     # price_degree = '$'
