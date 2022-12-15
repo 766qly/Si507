@@ -1,5 +1,11 @@
 import json
 import requests
+
+# use the api_key to create a header to access the API from Yelp
+api_key = 'RNADtfAbkrCrsBI27-GYnbDysNYjR4Ixft73SjQjEMTwlG6u4BNqiUgR5TPvf4vxnGwQ1WMdX7wocEO9-_M6P68ejiDZa4eQ45nzwQkllrzXQm6uodhfMrTbo_NCY3Yx'
+headers = {'Authorization': 'Bearer %s' % api_key}
+base_url = 'https://api.yelp.com/v3/businesses/search'
+
 def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=2):
     """Serializes object as JSON. Writes content to the provided filepath.
 
@@ -32,13 +38,8 @@ def read_json(filepath, encoding='utf-8'):
         return json.load(file_obj)
 
 
-
-api_key = 'RNADtfAbkrCrsBI27-GYnbDysNYjR4Ixft73SjQjEMTwlG6u4BNqiUgR5TPvf4vxnGwQ1WMdX7wocEO9-_M6P68ejiDZa4eQ45nzwQkllrzXQm6uodhfMrTbo_NCY3Yx'
-headers = {'Authorization': 'Bearer %s' % api_key}
-
-base_url = 'https://api.yelp.com/v3/businesses/search'
-
 class Place:
+    #use the json file as input to store the information of the restaraunts
     def __init__(self, id="", name="No Name", url="No URL", location={}, categories="No Categories", transactions="", price=None, rating="", phone="", is_closed=True, json=None):
         self.id = json['id']
         self.name = json['name']
@@ -55,6 +56,12 @@ class Place:
         self.is_closed = json['is_closed']
 
     def info(self):
+        '''
+        Based on the field, give the information of restaurants
+
+        Returns:
+            str: String represents the information of restaurants
+        '''
         if self.location['address2'] and self.location['address3']:
             return f'{self.name}\nphone: {self.phone}\naddress: {self.location["address1"]} {self.location["address2"]} {self.location["address3"]} \nrating: {self.rating} \nprice: {self.price}\n'
         if self.location['address2']:
@@ -62,6 +69,7 @@ class Place:
         return f'{self.name}\nphone: {self.phone}\naddress: {self.location["address1"]} \nrating: {self.rating} \nprice: {self.price}\n'
 
 class Review:
+    # use the json file to information of reviews
     def __init__(self, user={}, text="", time_created="", url='', rating='', json=None):
         self.user = json['user']
         self.text = json['text']
@@ -70,24 +78,51 @@ class Review:
         self.rating = json['rating']
     
     def info(self):
+        '''
+        Print the information of reviews
+        '''
         print(f'time: {self.time}')
         print(f'rating: {self.rating}')
         print(f'text: {self.text}')
 
 class TreeNode:
+    # TreeNode to form a tree
     def __init__(self, children=None, business=None, ):
         self.children = children
         self.business = business
 
 
 def retireve_data_by_term_location(term_name, location, num_obj=20, headers=headers):
+    """retrieve data based on the term and location that the user gives to and 
+
+    Parameters:
+        term_name (str): name of the term for searching
+        location (str): location of the restaurants
+        num_obj (int): how many objects wants to be return
+        headers (dict): header contains information of api keys to access the API from yelp
+
+    Returns:
+        res (dict): dictionary stores information of search results.
+    """
+
     parameter_dictionary = {'term': term_name,'location': location, 'limit': num_obj}
     response = requests.get(base_url, params=parameter_dictionary, headers=headers)
     write_json('test2.json', data=response.json())
     res = json.loads(response.text)
+    print(type(res))
     return res
 
 def find_reviews(id, headers=headers):
+    """retrieve reviews based on the id of the restaurants
+
+    Parameters:
+        id (str): id of a restaurant
+        headers (dict): header contains information of api keys to access the API from yelp
+
+    Returns:
+        res (dict): dictionary stores information of search results.
+    """
+
     review_url = f'https://api.yelp.com/v3/businesses/{id}/reviews'
     response = requests.get(review_url, headers=headers)
     write_json('test2.json', data=response.json())
@@ -95,12 +130,23 @@ def find_reviews(id, headers=headers):
     return res
 
 def store_in_tree(place, root):
+    """store the place in the correct loc in the tree based on the price level
+    and the city of the place
+
+
+    Parameters:
+        place (Place): object that contains information of a restaurant
+        root (TreeNode): root node of the tree 
+
+    Returns:
+        None
+    """
+
     if not place.price:
         return
     price = place.price
     city = place.location['city'].lower()
     price_node = root.children[price]
-    
 
     city_node = None
     if city in price_node.children.keys():
@@ -113,6 +159,20 @@ def store_in_tree(place, root):
         city_node.children[f'{place.id}'] = place
 
 def give_recommendation(root, price, city, data, dict_exist):
+    """give proper recommendations after searching the tree and ask the user
+    whether wants to see the review of some restaurants
+
+    Parameters:
+        root (TreeNode): root node of the Tree
+        price (str): price level represents by $ from $ to $$$$
+        city (str): city name that the restuarants locate
+        data (list): cache list contains dictionary of hisotry tree structure to create the search tree.
+        dict_exist(dict): cache dictonary that contains information of history search
+
+    Returns:
+        res (dict): dictionary stores information of search results.
+    """
+
     price_node = root.children[price]
     if city not in price_node.children:
         do_search(' ', city, data, dict_exist, False)
@@ -125,6 +185,8 @@ def give_recommendation(root, price, city, data, dict_exist):
         print(f'{i} {place.info()}')
         if i == 20:
             break
+
+    #ask user whether wants to see the review of some restuarants
     rev = input("Do you want to view review of some of the restaurant?(y/n)? ")
     if rev == 'y':
         while True:
@@ -145,6 +207,14 @@ def give_recommendation(root, price, city, data, dict_exist):
 
 
 def load_cahce(filename):
+    """load the a json file that stored informaiton of searhcing or informaiton of trees
+
+    Parameters:
+        filename(str): file path of the cache file
+
+    Returns:
+        data (dict/list): data that fetch from the cache file
+    """
     try:
         data = read_json(filename)
     except:
@@ -153,11 +223,21 @@ def load_cahce(filename):
 
 
 def create_cache_tree(data, root):
+    """ create the tree structure based on the given data
+
+    Parameters:
+        data (list): cache list contains dictionary of hisotry tree structure to create the search tree.
+        root (TreeNode): root node of the tree
+
+    Returns:
+        root (TreeNode): root node of the tree
+    """
     for business in data:
         store_in_tree(Place(json=business), root)
     return root
 
 def do_search(term, location, data, dict_exist, search=True):
+    
     if f'{term.lower()} {location.lower()}' in dict_exist.keys():
                 results = dict_exist[f'{term.lower()} {location.lower()}']
     else:
@@ -202,7 +282,7 @@ if __name__ == "__main__":
 
 
     while True:
-        option = input("Please choose what to do search or recommendation? ")
+        option = input("Please choose what to do search or recommendation? (search/recommendation)")
         if option == 'search':
             term = input("Please first enter the term you want to search. ")
             location = input("Please enter the loaction that you want to do search. ")
@@ -251,7 +331,7 @@ if __name__ == "__main__":
 
         elif option == 'recommendation':
             #TODO recommendation
-            price_level = input("Please first enter the price level you want to search? ")
+            price_level = input("Please first enter the price level you want to search?(from $ to $$$$) ")
             city_rec = input("Please enter the city you want to search? ")
             give_recommendation(root, price_level, city_rec.lower(), data, dict_exist)
 
@@ -282,5 +362,7 @@ if __name__ == "__main__":
     #     store_in_tree(Place(json=business), root)
 
     # give_recommendation(root, '$$', 'New York')
+
+
 
 
